@@ -20,7 +20,7 @@
 <a href="http://www.linkedin.com/in/ahmed-mujtaba-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed mujtaba" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ahmed.mujtana.3/?viewas=&should_open_composer=false&show_switched_toast=false&show_invite_to_follow=false&show_switched_tooltip=false&show_podcast_settings=false&show_community_review_changes=false&show_community_rollback=false&show_follower_visibility_disclosure=false&bypass_exit_warning=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed mujtaba" height="30" width="40" /></a>
 <a href="https://instagram.com/mujtaba56383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mujtaba56383" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/rRJ8V58t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/rRJ8V58t" height="30" width="40" /></a>
+<a href="https://discord.gg/bD9XrHh8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/rRJ8V58t" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
