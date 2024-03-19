@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **asp.net Core MVC (Model View Controll)**
 
-- 💬 Ask me about **javascript, PHP, MySQL**
+- 💬 Ask me about **C#,asp.net Core,MQL,PHP,Javascript**
 
 - 📫 How to reach me **Mujtaba56383@gmail.com**
 
