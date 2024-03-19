@@ -1,13 +1,13 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQGdouceL_4R0Q/profile-displaybackgroundimage-shrink_350_1400/0/1695814245786?e=1702512000&v=beta&t=BOe5ZzyY_-cYY8lqQXUyqIyMGMYMvqn5g6bzN9ZteQ4)
 <h1 align="center">Hi 👋, I'm Mujtabaa-Ahmed</h1>
-<h3 align="center">A passionate PHP developer from Pakistan</h3>
+<h3 align="center">A passionate Bcakend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujtabaa-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mujtabaa-ahmed" /> </p>
 
-- 🔭 I’m currently working on **Talib-e-Ilm (student test portal)**
+- 🔭 I’m currently working on **asp.net [E-Commerce store , Airline System]**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **asp.net Core MVC (Model View Controll)**
 
 - 💬 Ask me about **javascript, PHP, MySQL**
 
