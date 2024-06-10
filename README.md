@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mujtabaa-ahmed" alt="mujtabaa-ahmed" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@cryptonionahmed" target="blank"><img src="https://img.shields.io/twitter/follow/@cryptonionahmed?logo=twitter&style=for-the-badge" alt="@cryptonionahmed" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@cryptonionahmed" target="blank"><img src="https://img.shields.io/twitter/follow/@cryptonionahmed?logo=twitter&style=for-the-badge" alt="cryptonionahmed" /></a> </p>
 
 - 🔭 I’m currently working on [AirLine_API](https://github.com/Mujtabaa-Ahmed/AirLine_API.git)
 
