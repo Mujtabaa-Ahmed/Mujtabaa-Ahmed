@@ -1,4 +1,4 @@
-![MasterHead]([![image](https://github.com/Mujtabaa-Ahmed/Mujtabaa-Ahmed/assets/123797571/8a3caf2d-138b-4f51-9174-5f2c54cb3f70](https://media.licdn.com/dms/image/D4D16AQGdouceL_4R0Q/profile-displaybackgroundimage-shrink_350_1400/0/1695814247620?e=1723680000&v=beta&t=8uJZjQ_Ubym5oePoTkIXRos8upOYYx_FRlGWg4dNv3g))
+![MasterHead]("[![image](https://github.com/Mujtabaa-Ahmed/Mujtabaa-Ahmed/assets/123797571/8a3caf2d-138b-4f51-9174-5f2c54cb3f70](https://media.licdn.com/dms/image/D4D16AQGdouceL_4R0Q/profile-displaybackgroundimage-shrink_350_1400/0/1695814247620?e=1723680000&v=beta&t=8uJZjQ_Ubym5oePoTkIXRos8upOYYx_FRlGWg4dNv3g)")
 )
 <h1 align="center">Hi 👋, I'm Mujtabaa-Ahmed</h1>
 <h3 align="center">A passionate Bcakend developer from Pakistan</h3>
