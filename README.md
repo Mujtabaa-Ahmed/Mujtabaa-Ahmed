@@ -1,4 +1,5 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQGdouceL_4R0Q/profile-displaybackgroundimage-shrink_350_1400/0/1695814245786?e=1702512000&v=beta&t=BOe5ZzyY_-cYY8lqQXUyqIyMGMYMvqn5g6bzN9ZteQ4)
+![MasterHead](![image](https://github.com/Mujtabaa-Ahmed/Mujtabaa-Ahmed/assets/123797571/8a3caf2d-138b-4f51-9174-5f2c54cb3f70)
+)
 <h1 align="center">Hi 👋, I'm Mujtabaa-Ahmed</h1>
 <h3 align="center">A passionate Bcakend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"/>
