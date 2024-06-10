@@ -1,3 +1,4 @@
+![image](https://github.com/Mujtabaa-Ahmed/Mujtabaa-Ahmed/assets/123797571/8a3caf2d-138b-4f51-9174-5f2c54cb3f70](https://media.licdn.com/dms/image/D4D16AQGdouceL_4R0Q/profile-displaybackgroundimage-shrink_350_1400/0/1695814247620?e=1723680000&v=beta&t=8uJZjQ_Ubym5oePoTkIXRos8upOYYx_FRlGWg4dNv3g)")
 <h1 align="center">I'm Ahmed Mujtaba Shahzad</h1>
 <h3 align="center">Full-Stack Developer | Building Scalable Web Applications with Passion and Precision</h3>
 
@@ -6,6 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mujtabaa-ahmed" alt="mujtabaa-ahmed" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@cryptonionahmed" target="blank"><img src="https://img.shields.io/twitter/follow/@cryptonionahmed?logo=twitter&style=for-the-badge" alt="@cryptonionahmed" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mujtabaa-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mujtabaa-ahmed" /> </p>
 
 - 🔭 I’m currently working on [AirLine_API](https://github.com/Mujtabaa-Ahmed/AirLine_API.git)
 
