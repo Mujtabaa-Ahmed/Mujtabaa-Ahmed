@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/@cryptonionahmed" target="blank"><img src="https://img.shields.io/twitter/follow/@cryptonionahmed?logo=twitter&style=for-the-badge" alt="cryptonionahmed" /></a> </p>
 
-- 🔭 I’m currently working on [AirLine_API](https://github.com/Mujtabaa-Ahmed/AirLine_API.git)
+- 🔭 I’m currently working on NopCommervcer Template
 
-- 🌱 I’m currently learning **TyprScript | Angular**
+- 🌱 I’m currently learning ASP.Net (c#)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mujtabaa-Ahmed](https://github.com/Mujtabaa-Ahmed)
 
