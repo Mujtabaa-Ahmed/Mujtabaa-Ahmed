@@ -50,7 +50,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mujtabaa-ahmed&show_icons=true&theme=radical" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMujtaba&theme=radical" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mujtabaa-ahmed&theme=radical" height="180px" />
 </p>
 
 ## 📫 Connect with Me
