@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" width="100%" height="150px" />
+<img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" width="100%" />
 
 <h1 align="center">Hey there, I'm Ahmed Mujtaba! 🚀</h1>
 
